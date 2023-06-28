@@ -1,0 +1,43 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f3f4f5;
+}
+
+#Journey {
+  background-color: #f3f4f5;
+}
+
+#bijix {
+  background-color: #202020;
+}
+
+#aboutme {
+  background-color: #202020;
+}
+
+#quandale {
+  background-color: #f3f4f5;
+}
+
+.navbar-nav .na v-link {
+  color: rgb(0, 0, 0);
+}
+
+.contact-icons a + a {
+  margin-left: 200px;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Media query untuk tampilan desktop */
+@media screen and (min-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
+}
